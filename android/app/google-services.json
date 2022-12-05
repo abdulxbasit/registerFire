@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666633175629",
+    "project_id": "registerfire-b9a3b",
+    "storage_bucket": "registerfire-b9a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666633175629:android:50658a94e777488184d204",
+        "android_client_info": {
+          "package_name": "com.registerfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666633175629-vbs9trpiccf8ndqjtjt6h271hpmpe0og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.registerfire",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "666633175629-vgo5a92622j7594u2luijpao6qnmjsn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkuCiVuJMMyX-hWz1zCZ3H3gjetkku69w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666633175629-vgo5a92622j7594u2luijpao6qnmjsn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
